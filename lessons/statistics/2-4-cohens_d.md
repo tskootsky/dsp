@@ -11,4 +11,7 @@
     return cohensD
  
  
- cohensD_effectsize(firsts.prglngth, others.prglngth)
+ cohensD_effectsize(firsts.prglngth, others.prglngth) = 0.029
+ cohensD_effectsize(firsts.totalwgt_lb, others.totalwgt_lb) = -.089
+ 
+ The effect size is greater for total weight than it is for pregnancy length; however, given the example in the book regarding women's height, it still does not seem like a very large effect. According to a quick google search, .08 might be big enough in the medical field to mean something for doctors, but it's not a very big effect size over all.
